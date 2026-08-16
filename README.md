@@ -3,9 +3,9 @@ clustering techniques to a real-world dataset.
 
 Project Overview
 
-This project is based on clustering the Iris dataset using two unsupervised machine learning algorithms:
-#KMeans Clustering
-#Hierarchical Clustering
+This project is based on clustering the Iris dataset using two unsupervised machine learning algorithms
+KMeans Clustering
+Hierarchical Clustering
 
 The main aim is to group the Iris flowers into different clusters and compare the results of both methods
 
